@@ -10,4 +10,12 @@ Random forest is a machine learning algorithm used for classification and regres
 Random forest algorithm is known for its ability to handle large datasets with high dimensionality and noisy features. It is also less prone to overfitting than other decision tree-based algorithms because of its use of random subsets of the data and features.
 
 # Instructions to run the Project
-To run the Code , you need to install Anaconda Navigator .Later you need to open jupyter notebook and Import Necessary libraries like Numpy,pandas,Seaborn,Scikit learn and import test.csv and train.csv files. By using Libraries you preprocess the data by dropping the Unnecessary libraries and select the Features and use the random forest algorithm to get the prediction values.We also calculated F1 score and recall score.
+To run the Code , you need to install Anaconda Navigator .Later you need to open jupyter notebook and Import Necessary libraries like Numpy,pandas,Seaborn,Scikit learn and import test.csv and train.csv files. By using Libraries you preprocess the data by dropping the Unnecessary libraries and select the Features and use the random forest algorithm to get the prediction values.We also calculated F1 score and recall score.Finally we save this project in rfc_predict.csv file (Here we tried to upload the file ,since github doesnt allow files more than 100 MB.)
+
+# Note 
+Git LFS is a paid feature on GitHub, and there are usage limits for free accounts. If you need to upload a large number of files or files larger than the allowed limit, you may need to upgrade to a paid plan.
+
+
+
+
+
